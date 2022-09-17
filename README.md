@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Java / Kotin software engineer. 
+My name is Viacheslav Aksenov, I am Java / Kotin software engineer. 
 
 # My activities:
 
