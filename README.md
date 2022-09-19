@@ -9,9 +9,28 @@ My name is Viacheslav Aksenov, I am Java / Kotin software engineer.
 Here you can find my lectures, webinars and speeches on meetups.
 
 
-### Tech Summit, San Francisco, CA (https://techsummit.tech/)
-Topic: How technology is shaping fintech advancements
+ - ### Tech Summit, San Francisco, CA (https://techsummit.tech/)
+    How technology is shaping fintech advancements
 
+ - ### School 21, Sber, RU
+    What does a developer actually do?
+    Record: https://youtu.be/sLKaD4_U_bg
+
+- ### ITVDN, UA
+  Creating a Basic Spring Boot Web Service in Java
+  Record: https://youtu.be/0QV9Wxz8_rM
+
+- ### Java Menthor, RU
+  Jenkins. How to use it as a developer
+  Record: https://youtu.be/2OcLKESlB3A
+
+- ### ProgMsk, RU
+  Backend and Kotlin. Is there life after Java? (https://prog.msk.ru/2022/07/07/is-there-life-after-java/)
+  Record: https://youtu.be/GF8Cy1AEmMU
+
+- ### ITVDN, UA
+  Starting a career in Java development. Personal experience, current trends and pitfalls
+  Record: https://youtu.be/tNLmXLYOh9o
 
 
 ## Judgements:
