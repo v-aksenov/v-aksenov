@@ -4,9 +4,13 @@
 
 My name is Viacheslav Aksenov, I am **Java** / **Kotin** software engineer. 
 ### ⌨️ My Skills:
+
 **Languages:** Java, Kotlin
+
 **Technologies:** Docker, Kafka, SQL, PostgreSQL, Oracle, MongoDB, Websocket, Unit testing, Integration testing, ORM, JPA, RabbitMQ
+
 **Frameworks:** Spring, Spring Boot, Spring Data, JdbcTemplate, Kotest, TestNG, Junit, Mockito, MockK, Test Containers, DB Unit
+
 **Tools:** Jenkins, Jira, Confluence, Intellij IDEA, Unix, Git, SSH, Maven, Gradle
 ___
 ## My activities:
