@@ -79,4 +79,16 @@ ___
 - **Dzone** - [Kotlin Spring Boot Web-Service Integration With Database](https://dzone.com/articles/kotlin-spring-boot-web-service-integration-with-da)
 - **HackerNoon** - [What is Code Review and How To Do It Right?](https://hackernoon.com/what-is-code-review-and-how-to-do-it-right)
 
+___
+
+I was nominated for HackerNoon 2022 - [HACKERNOON CONTRIBUTOR OF THE YEAR](https://www.noonies.tech/):
+
+- [How-to](https://www.noonies.tech/2022/programming/2022-hackernoon-contributor-of-the-year-how-to)
+- [Kotlin](https://www.noonies.tech/2022/programming/2022-hackernoon-contributor-of-the-year-kotlin)
+- [Microservices](https://www.noonies.tech/2022/programming/2022-hackernoon-contributor-of-the-year-kotlin)
+- [All about teamwork](https://www.noonies.tech/2022/internet-heroes/2022-all-about-teamwork)
+- [GitHub](https://www.noonies.tech/2022/programming/2022-hackernoon-contributor-of-the-year-github)
+- [Clean-code](HackerNoon%20Contributor%20of%20the%20Year-%20BLOCKCHAIN%20%7C%20Noonies%202022%20Tech%20Awards%20by%20HackerNoon)
+
+
 **to be continued...**
